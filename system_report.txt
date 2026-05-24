@@ -1,0 +1,49 @@
+================ SYSTEM INFORMATION REPORT ================
+
+Generated On : 2026-05-24 17:03:41.861237
+
+### 1. OS & ARCHITECTURE INFO
+System         : Windows  # Windows/Linux/macOS
+Release        : 10  # OS release version
+Version        : 10.0.19045  # OS build info
+Machine        : AMD64  # AMD64 / x86_64 / arm64
+Architecture   : ('64bit', 'WindowsPE')  # 64bit/WindowsPE
+
+### 2. HARDWARE DETAILS
+Processor      : Intel64 Family 6 Model 142 Stepping 9, GenuineIntel  # CPU name
+Hostname       : Dell  # Network system name
+User           : Jeet
+CPU Cores      : 4
+Physical Cores : 2
+
+### 3. MEMORY
+Total RAM      : 15.88 GB
+Available      : 8.03 GB
+Used           : 7.85 GB
+Usage          : 49.4%
+
+### 4. STORAGE
+
+Drive          : C:\
+File System    : NTFS
+Total Space    : 264.68 GB
+Used Space     : 168.73 GB
+Free Space     : 95.95 GB
+Usage          : 63.7%
+
+Drive          : D:\
+File System    : NTFS
+Total Space    : 211.64 GB
+Used Space     : 124.71 GB
+Free Space     : 86.93 GB
+Usage          : 58.9%
+
+### 5. NETWORK
+Hostname       : Dell
+IP Address     : 192.168.202.34
+MAC Address    : 28:c6:3f:21:5f:79
+
+### 6. BOOT TIME
+Boot Time      : 2026-05-24 15:28:29.207384
+
+================ END OF REPORT ================
